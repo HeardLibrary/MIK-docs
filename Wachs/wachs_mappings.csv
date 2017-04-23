@@ -1,0 +1,11 @@
+"Identifier","<identifier type='local'>%value%</identifier>",
+title,"<titleInfo displayLabel='Title'><title>%value%</title></titleInfo>",
+creator,"<name><namePart>%value%</namePart><role><roleTerm type='code' authority='marcrelator'>cre</roleTerm><roleTerm type='text' authority='marcrelator'>Creator</roleTerm></role></name>",
+date,"<originInfo><dateIssued keyDate='yes'>%value%</dateIssued></originInfo>",
+publisher,"<originInfo><publisher>%value%</publisher></originInfo>",
+language,"<language><languageTerm type='code'>%value%</languageTerm></language>",
+type,"<typeOfResource>%value%</typeOfResource>",
+format,"<physicalDescription>%value%</physicalDescription>",
+rights,"<accessCondition type='restriction on access'>%value%</accessCondition>",
+contributor,"<name><namePart>%value%</namePart><role><roleTerm type='code' authority='marcrelator'>ctb</roleTerm><roleTerm type='text' authority='marcrelator'>Contributor</roleTerm></role></name>",
+source,"<note type='ownership' displayLabel='Repository'>%value%</note>"

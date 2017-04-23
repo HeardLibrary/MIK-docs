@@ -1,0 +1,1 @@
+ php ../mik --config wachs_config.ini
